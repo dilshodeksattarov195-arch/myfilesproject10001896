@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfalidate",
+        "uuid": 14650392,
+        "checksum": "vb8em"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
